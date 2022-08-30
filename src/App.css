@@ -1,0 +1,19 @@
+.centro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.ligado{
+    background-color: #bbb;
+    color: #282c34;
+}
+
+.desligado{
+    background-color: #282c34;
+    color: #bbb;
+}

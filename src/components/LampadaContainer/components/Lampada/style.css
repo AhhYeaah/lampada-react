@@ -1,0 +1,14 @@
+.foto{
+    height: 200px;
+    width: 200px;
+}
+
+.foto-esticada{
+    height: 200px;
+    width: 320px;
+}
+
+.foto-quebrada{
+    width: 125px;
+    height: 200px;
+}

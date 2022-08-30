@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+}
+
+button{
+    margin-top: 20px;
+}
+
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
